@@ -1,0 +1,99 @@
+
+h3 {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-size: 5vw;
+    font-family: 'Courier New', Courier, monospace, serif;
+}
+
+li {
+    color: whitesmoke;
+    background-color: lightblue
+}
+
+ol {
+    background-color: lightblue
+}
+
+td {
+    color: blastoff;
+}
+
+#blue-p {
+    color: blue;
+    font-family: 'Fontdiner Swanky', cursive, bold;
+}
+
+#cyan-p {
+    color: cyan;
+    font-family: 'Fontdiner Swanky';
+}
+
+#navbar {
+    border-style: dotted;
+    border-color: cyan;
+    border-collapse: collapse;
+    font-size: 20px;
+    font-family: 'Fontdiner Swanky', cursive, bold;
+}
+
+#navbar th {
+    border-style: dotted;
+    border-color: cyan;
+}
+
+header {
+    background-color: #011f4b;
+    color: #fffaff;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid #fffaff;
+    font-family: 'Fontdiner Swanky', serif;
+}
+
+.navbar {
+    background-color: #fffaff;
+    border: 3px solid #011f4b;
+    font-size: 20px;
+    font-family: 'Fontdiner Swanky', serif;
+    position: sticky;
+    top: 0px;
+}
+
+.navbar th {
+    border: solid #011f4b;
+    padding: 5px;
+}
+footer{
+    background-color:rgb(180, 145, 3);
+    color: #fffaff;
+    font-size: 20px;
+    font-family: 'Fontdiner Swanky', serif;
+    border: 3px solid #fffaff;
+    padding-left: 5px;
+}
+.profile {
+    background-color: cyan;
+    text-align: center;
+}
+.even-row {
+    background-color: #5764A5;
+}
+.odd-row {
+    background-color: #A55757;
+}
+
+#out{
+    background-color:beige;
+    color: black;
+    font-size: 20px;
+    font-family: 'Fontdiner Swanky', serif;
+
+}
+#miu{
+    color: orange;
+}
+.active {
+    background-color:lightcoral;
+}
